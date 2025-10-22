@@ -8,7 +8,7 @@ Tugas ini disusun untuk menunjukkan pemahaman dan kemampuan dalam menggunakan to
 
 # **Tampilan _WEB_ dan Penjelasan Setiap Bagian _WEB_**
 **1. Halaman Dashboard**
-      **Fungsi Utama:** Menyajikan ringkasan operasional secara cepat untuk pemilik/manager: total penjualan, total pembelian, jumlah pelanggan, nilai persediaan, notifikasi          stok rendah, grafik tren penjualan.
+      **Fungsi Utama:** Menyajikan ringkasan operasional secara cepat untuk pemilik/manager: total penjualan, total pembelian, jumlah pelanggan, nilai persediaan, notifikasi stok rendah, grafik tren penjualan.
       **Komponen:**
       Pada bagian atas terdapat menu:
         - Total Penjualan Hari Ini;
